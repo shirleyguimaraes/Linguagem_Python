@@ -1,3 +1,2 @@
-# Python
- Meus projetos efetuados em Python
-# Linguagem Python
+# Linguagem em Python
+Meus arquivos efetuados na linguagem Python
